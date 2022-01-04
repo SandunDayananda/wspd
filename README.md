@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wspd
+- 👋 Hi, I’m @Sandun Dayananda
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on all the things related to Data Engineering
